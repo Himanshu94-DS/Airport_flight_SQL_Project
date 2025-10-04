@@ -29,8 +29,8 @@ Additional advanced queries (11–20) analyze **seasonal growth**, **route consi
 - **Power BI:** Dashboard visualization and storytelling  
 - **Excel / CSV:** Data preprocessing  
 - **DAX:** Measures for KPIs (seat utilization, YoY growth, etc.)
-  
-  ## 📊 Power BI Dashboard Insights
+
+## Power BI Dashboard Insights
 The interactive dashboard provides:
 - **Top Routes & Cities** – identifies busiest and most profitable connections  
 - **Passenger Trends** – reveals seasonality and long-term growth  
@@ -38,7 +38,7 @@ The interactive dashboard provides:
 - **Monthly Flight Trends** – shows traffic peaks and operational gaps  
 - **Geographical Map** – visualizes origin-destination patterns
   
-- ## Key Findings
+## Key Findings
 - Several routes showed **declining passenger traffic**, indicating the need for route optimization.  
 - **Underutilized flights (<50% seat occupancy)** revealed potential cost inefficiencies.  
 - Identified **peak travel months** for major cities to optimize seasonal scheduling.  
