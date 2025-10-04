@@ -1,7 +1,7 @@
 # Airport_flight_SQL_Project
 
 ## ✈️ Project Overview
-This project analyzes airport operations data using SQL for data extraction and transformation, and Power BI for visualization.
+This project analyzes **airport operations** data using SQL for data extraction and transformation, and Power BI for visualization.
 The goal is to identify key operational insights such as passenger trends, seat utilization, route performance, and seasonal demand patterns to support data-driven decision-making for airlines.
 ## Objectives
 Analyze passenger and flight trends across airports and routes.
