@@ -1,4 +1,4 @@
-# Airport_flight_SQL_Project
+# Airport's Flight Data Analysis (SQL + Power BI)
 
 ## ✈️ Project Overview
 This project analyzes **airport operations data** using **SQL** for data extraction and transformation, and **Power BI** for visualization.  
